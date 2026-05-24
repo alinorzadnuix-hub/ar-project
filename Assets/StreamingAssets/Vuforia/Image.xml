@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="SugeeCake" size="0.500000 0.344068" />
+    <ImageTarget name="Satay" size="0.500000 0.333333" />
+    <ImageTarget name="RotiPrata" size="0.500000 0.321326" />
+    <ImageTarget name="NasiLemak" size="0.500000 0.346250" />
+    <ImageTarget name="NasiBiriyani" size="0.500000 0.353730" />
+    <ImageTarget name="Laksa" size="0.500000 0.370968" />
+    <ImageTarget name="FriedKwayTeow" size="0.500000 0.315152" />
+    <ImageTarget name="FishHeadCurry" size="0.500000 0.281250" />
+    <ImageTarget name="CurryDebal" size="0.500000 0.349180" />
+    <ImageTarget name="Chinese" size="0.500000 0.270665" />
+    <ImageTarget name="Carrotcake" size="0.500000 0.375654" />
+    <ImageTarget name="BakKutThe" size="0.500000 0.400000" />
+    <ImageTarget name="Ayampenyet" size="0.500000 0.369516" />
+  </Tracking>
+</QCARConfig>
